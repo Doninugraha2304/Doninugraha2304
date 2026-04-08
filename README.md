@@ -15,9 +15,6 @@
 	<a href="https://github.com/Doninugraha2304">
 		<img src="https://img.shields.io/badge/GitHub-Doninugraha2304-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 	</a>
-	<a href="https://wa.me/6283825289699">
-		<img src="https://img.shields.io/badge/WhatsApp-+62%20838--2528--9699-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-	</a>
 </p>
 
 ## About Me
