@@ -63,14 +63,14 @@
     <rect x="612" y="258" width="86" height="18" fill="#213753" />
 
     <g>
-      <rect x="446" y="208" width="100" height="54" fill="#f59e0b" />
-      <rect x="446" y="208" width="100" height="10" fill="#fcd34d" />
+      <rect x="446" y="208" width="100" height="54" fill="#1d4ed8" />
+      <rect x="446" y="208" width="100" height="10" fill="#60a5fa" />
 
-      <rect x="468" y="156" width="58" height="52" fill="#fbbf24" />
-      <rect x="464" y="142" width="14" height="16" fill="#fbbf24" />
-      <rect x="516" y="142" width="14" height="16" fill="#fbbf24" />
-      <rect x="468" y="146" width="6" height="10" fill="#fb923c" />
-      <rect x="520" y="146" width="6" height="10" fill="#fb923c" />
+      <rect x="468" y="156" width="58" height="52" fill="#3b82f6" />
+      <rect x="464" y="142" width="14" height="16" fill="#3b82f6" />
+      <rect x="516" y="142" width="14" height="16" fill="#3b82f6" />
+      <rect x="468" y="146" width="6" height="10" fill="#93c5fd" />
+      <rect x="520" y="146" width="6" height="10" fill="#93c5fd" />
 
       <rect x="484" y="178" width="8" height="8" fill="#111827" opacity="1">
         <animate attributeName="opacity" values="1;1;0;1;1" dur="4s" repeatCount="indefinite" />
@@ -78,24 +78,24 @@
       <rect x="504" y="178" width="8" height="8" fill="#111827" opacity="1">
         <animate attributeName="opacity" values="1;1;0;1;1" dur="4s" repeatCount="indefinite" />
       </rect>
-      <rect x="494" y="190" width="8" height="6" fill="#7c2d12" />
-      <rect x="492" y="196" width="12" height="4" fill="#7c2d12" />
+      <rect x="494" y="190" width="8" height="6" fill="#1e3a8a" />
+      <rect x="492" y="196" width="12" height="4" fill="#1e3a8a" />
 
-      <rect x="480" y="220" width="30" height="22" fill="#fed7aa" />
-      <rect x="470" y="248" width="16" height="12" fill="#fed7aa" />
-      <rect x="506" y="248" width="16" height="12" fill="#fed7aa" />
+      <rect x="480" y="220" width="30" height="22" fill="#bfdbfe" />
+      <rect x="470" y="248" width="16" height="12" fill="#bfdbfe" />
+      <rect x="506" y="248" width="16" height="12" fill="#bfdbfe" />
 
-      <rect x="544" y="220" width="18" height="12" fill="#f59e0b" />
-      <rect x="560" y="208" width="12" height="12" fill="#f59e0b" />
-      <rect x="570" y="198" width="10" height="10" fill="#f59e0b" />
+      <rect x="544" y="220" width="18" height="12" fill="#1d4ed8" />
+      <rect x="560" y="208" width="12" height="12" fill="#1d4ed8" />
+      <rect x="570" y="198" width="10" height="10" fill="#1d4ed8" />
 
-      <rect x="450" y="262" width="24" height="34" fill="#78350f" />
-      <rect x="520" y="262" width="24" height="34" fill="#78350f" />
+      <rect x="450" y="262" width="24" height="34" fill="#1e40af" />
+      <rect x="520" y="262" width="24" height="34" fill="#1e40af" />
       <rect x="444" y="296" width="32" height="10" fill="#111827" />
       <rect x="518" y="296" width="32" height="10" fill="#111827" />
 
-      <rect x="456" y="304" width="12" height="8" fill="#f97316" />
-      <rect x="526" y="304" width="12" height="8" fill="#f97316" />
+      <rect x="456" y="304" width="12" height="8" fill="#60a5fa" />
+      <rect x="526" y="304" width="12" height="8" fill="#60a5fa" />
 
       <rect x="462" y="170" width="6" height="2" fill="#ffffff" />
       <rect x="524" y="170" width="6" height="2" fill="#ffffff" />
