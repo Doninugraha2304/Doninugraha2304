@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-label="Animated pixel art of a developer working at a computer" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220" />
+      <stop offset="100%" stop-color="#101a2f" />
+    </linearGradient>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="#1f2a44" />
+    </pattern>
+  </defs>
+
+  <rect width="960" height="320" fill="url(#bg)" />
+  <rect width="960" height="320" fill="url(#grid)" opacity="0.45" />
+
+  <g fill="#6ee7ff">
+    <rect x="80" y="44" width="8" height="8">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="2.1s" repeatCount="indefinite" />
+    </rect>
+    <rect x="150" y="82" width="8" height="8">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite" />
+    </rect>
+    <rect x="240" y="36" width="8" height="8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite" />
+    </rect>
+    <rect x="860" y="54" width="8" height="8">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite" />
+    </rect>
+    <rect x="790" y="88" width="8" height="8">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g transform="translate(0 0)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -3;0 0" dur="2.4s" repeatCount="indefinite" />
+
+    <rect x="520" y="116" width="220" height="128" fill="#162338" />
+    <rect x="532" y="128" width="196" height="90" fill="#091120" />
+    <rect x="618" y="244" width="26" height="16" fill="#243a58" />
+    <rect x="580" y="260" width="102" height="10" fill="#1a2b43" />
+
+    <rect x="546" y="146" width="16" height="8" fill="#22d3ee" opacity="0.9" />
+    <rect x="566" y="146" width="42" height="8" fill="#38bdf8" opacity="0.7" />
+    <rect x="546" y="160" width="60" height="8" fill="#22d3ee" opacity="0.55" />
+    <rect x="546" y="174" width="92" height="8" fill="#38bdf8" opacity="0.65" />
+    <rect x="546" y="188" width="48" height="8" fill="#22d3ee" opacity="0.5" />
+    <rect x="610" y="188" width="30" height="8" fill="#38bdf8" opacity="0.75" />
+
+    <rect x="650" y="160" width="8" height="14" fill="#facc15">
+      <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite" />
+    </rect>
+
+    <rect x="434" y="228" width="92" height="14" fill="#18283f" />
+    <rect x="448" y="214" width="64" height="14" fill="#213551" />
+
+    <g>
+      <rect x="352" y="136" width="64" height="64" fill="#0f1a2d" />
+      <rect x="360" y="144" width="48" height="48" fill="#f4b183" />
+      <rect x="372" y="160" width="8" height="8" fill="#1f2937" />
+      <rect x="388" y="160" width="8" height="8" fill="#1f2937" />
+      <rect x="376" y="176" width="16" height="8" fill="#8b5a3c" />
+
+      <rect x="352" y="120" width="64" height="24" fill="#0b1220" />
+      <rect x="360" y="128" width="48" height="8" fill="#1e293b" />
+
+      <rect x="344" y="200" width="80" height="40" fill="#0ea5e9" />
+      <rect x="360" y="208" width="16" height="24" fill="#0284c7" />
+      <rect x="392" y="208" width="16" height="24" fill="#0284c7" />
+
+      <rect x="336" y="208" width="12" height="28" fill="#f4b183" />
+      <rect x="424" y="208" width="12" height="28" fill="#f4b183" />
+
+      <rect x="352" y="240" width="24" height="34" fill="#1f2937" />
+      <rect x="392" y="240" width="24" height="34" fill="#1f2937" />
+      <rect x="348" y="274" width="32" height="8" fill="#111827" />
+      <rect x="388" y="274" width="32" height="8" fill="#111827" />
+    </g>
+  </g>
+
+  <rect x="0" y="292" width="960" height="28" fill="#0a1020" />
+  <rect x="0" y="292" width="960" height="2" fill="#1f3352" />
+
+  <text x="42" y="248" fill="#93c5fd" font-size="22" font-family="monospace" letter-spacing="1">PIXEL MODE: ON</text>
+  <text x="42" y="274" fill="#38bdf8" font-size="14" font-family="monospace">building useful products, one commit at a time</text>
+</svg>

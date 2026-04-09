@@ -1,5 +1,9 @@
 # Hi, I'm Doni Nugraha
 
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-dev-loop.svg" alt="Animated pixel art developer banner" width="100%" />
+</p>
+
 <p>
 	Full Stack Developer from Kalimantan Timur, focused on building scalable web and mobile products for industry use.
 </p>
