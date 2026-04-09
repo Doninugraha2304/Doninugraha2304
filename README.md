@@ -1,11 +1,11 @@
 # Hi, I'm Doni Nugraha
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/hero-wow.svg" alt="Animated wow intro text" width="100%" />
+	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/hero-wow-v2.svg" alt="Animated wow intro text" width="100%" />
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-wow-scene.svg" alt="Animated pixel wow scene" width="100%" />
+	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-wow-cat-v2.svg" alt="Animated pixel wow cat scene" width="100%" />
 </p>
 
 <p>
