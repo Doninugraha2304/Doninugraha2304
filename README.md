@@ -4,12 +4,8 @@
 	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-dev-loop.svg" alt="Animated pixel art developer banner" width="100%" />
 </p>
 
-<p>
-	Full Stack Developer from Kalimantan Timur, focused on building scalable web and mobile products for industry use.
-</p>
-
-<p>
-	I turn business requirements into reliable digital solutions with clean architecture, solid UX, and maintainable code.
+<p align="center">
+	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/hero-text-reveal.svg" alt="Animated intro text" width="100%" />
 </p>
 
 <p>
