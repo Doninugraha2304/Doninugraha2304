@@ -23,8 +23,8 @@ jobs:
 
           stamp="$(date -u +%Y%m%d)"
 
-          perl -0777 -i -pe "s#(https://streak-stats\\.demolab\\.com\\?[^\"\\s]*?)(?:&v=\\d{8})?(?=\")#\$1&v=${stamp}#g" README.md
-          perl -0777 -i -pe "s#(https://github-profile-summary-cards\\.vercel\\.app/api/cards/repos-per-language\\?[^\"\\s]*?)(?:&v=\\d{8})?(?=\")#\$1&v=${stamp}#g" README.md
+          perl -0777 -i -pe "s#(https://streak-stats\\.demolab\\.com\\?[^\"\\s]*?)(?:&v=\\d+)?(?=\")#\$1&v=${stamp}#g" README.md
+          perl -0777 -i -pe "s#(https://github-profile-summary-cards\\.vercel\\.app/api/cards/repos-per-language\\?[^\"\\s]*?)(?:&v=\\d+)?(?=\")#\$1&v=${stamp}#g" README.md
 
       - name: Commit and push if changed
         shell: bash
