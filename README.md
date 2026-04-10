@@ -47,8 +47,8 @@
 ## GitHub Stats
 
 <p>
-	<img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=transparent&hide_border=true" alt="GitHub streak stats" />
-	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doninugraha2304&theme=github_dark" alt="Top languages" />
+	<img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=transparent&hide_border=true&v=20260410" alt="GitHub streak stats" />
+	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doninugraha2304&theme=github_dark&v=20260410" alt="Top languages" />
 </p>
 
 ## Current Focus
