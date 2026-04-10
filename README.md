@@ -1,11 +1,11 @@
-# Hi, I'm Doni Nugraha
+# Doni Nugraha | Full Stack Developer Indonesia
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/hero-wow-v2.svg" alt="Animated wow intro text" width="100%" />
+	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/hero-wow-v2.svg" alt="Doni Nugraha full stack developer profile banner" width="100%" />
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/pixel-wow-cat-v2.svg" alt="Animated pixel wow cat scene" width="100%" />
+	<img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/pixel-wow-cat-v2.svg" alt="Pixel cat coding scene by Doni Nugraha" width="100%" />
 </p>
 
 <p>
@@ -20,12 +20,36 @@
 	</a>
 </p>
 
+## Full Stack Developer In Indonesia
+
+I am Doni Nugraha, a Full Stack Developer based in Kalimantan Timur, Indonesia.
+I build web and mobile applications using Laravel, Next.js, React, Flutter, and Kotlin.
+My focus is delivering scalable, fast, and maintainable products for real business and industry needs.
+
+If you are looking for a Full Stack Developer Indonesia, Laravel Developer, Next.js Developer, or Flutter Developer, I am open for freelance, collaboration, and full-time opportunities.
+
 ## About Me
 
 - Building end-to-end applications with Laravel, Next.js, React, Flutter, and Kotlin
 - Designing backend systems and APIs with PHP, TypeScript, Python, MySQL, PostgreSQL, Redis, and Firebase
 - Shipping production-ready systems with Docker, Linux, Nginx, Git, and CI/CD workflows
 - Open to freelance, collaboration, and full-time opportunities
+
+## Featured Projects
+
+- [Doni Nugraha Portfolio Website](https://github.com/Doninugraha2304/doninugraha_profile) - Personal developer portfolio and project showcase.
+- [Kasir Native PHP](https://github.com/Doninugraha2304/kasir_native_php) - Cashier and transaction management web application built with PHP.
+- [Aplikasi Note Kotlin](https://github.com/Doninugraha2304/aplikasi_note_kotlin) - Android note-taking application built with Kotlin.
+- [WM Remove](https://github.com/Doninugraha2304/wm_remove) - JavaScript utility project for watermark-related image processing.
+- [Doha Claw](https://github.com/Doninugraha2304/doha_claw) - Public project repo in active development.
+
+## Services
+
+- Full Stack Web Development (Laravel, Next.js, React)
+- Mobile App Development (Flutter, Kotlin)
+- API Development and Backend Integration (PHP, TypeScript, Python)
+- Database Design and Optimization (MySQL, PostgreSQL, Redis)
+- Deployment and DevOps setup (Docker, Linux, Nginx, CI/CD)
 
 ## Tech Stack
 
