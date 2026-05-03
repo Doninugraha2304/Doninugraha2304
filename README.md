@@ -71,8 +71,8 @@ If you are looking for a Full Stack Developer Indonesia, Laravel Developer, Next
 ## GitHub Stats
 
 <p>
-	<img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=transparent&hide_border=true&v=20260502" alt="GitHub streak stats" />
-	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doninugraha2304&theme=github_dark&v=20260502" alt="Top languages" />
+	<img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=transparent&hide_border=true&v=20260503" alt="GitHub streak stats" />
+	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doninugraha2304&theme=github_dark&v=20260503" alt="Top languages" />
 </p>
 
 ## Current Focus
