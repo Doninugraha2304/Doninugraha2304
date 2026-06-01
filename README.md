@@ -86,7 +86,7 @@
         <h3 align="center">Absensi & Employee Salary</h3>
         <div align="center">
           <a href="https://github.com/Doninugraha2304/absensi_and_-employee_salary">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=absensi_and_-employee_salary&theme=github_dark&show_owner=true&_=20260531" alt="Absensi & Employee Salary" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=absensi_and_-employee_salary&theme=github_dark&show_owner=true&_=20260601" alt="Absensi & Employee Salary" />
           </a>
         </div>
       </td>
@@ -94,7 +94,7 @@
         <h3 align="center">Kasir Native PHP</h3>
         <div align="center">
           <a href="https://github.com/Doninugraha2304/kasir_native_php">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=kasir_native_php&theme=github_dark&show_owner=true&_=20260531" alt="Kasir Native PHP" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=kasir_native_php&theme=github_dark&show_owner=true&_=20260601" alt="Kasir Native PHP" />
           </a>
         </div>
       </td>
@@ -104,7 +104,7 @@
         <h3 align="center">Aplikasi Note Kotlin</h3>
         <div align="center">
           <a href="https://github.com/Doninugraha2304/aplikasi_note_kotlin">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=aplikasi_note_kotlin&theme=github_dark&show_owner=true&_=20260531" alt="Aplikasi Note Kotlin" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=aplikasi_note_kotlin&theme=github_dark&show_owner=true&_=20260601" alt="Aplikasi Note Kotlin" />
           </a>
         </div>
       </td>
@@ -112,7 +112,7 @@
         <h3 align="center">WM Remove</h3>
         <div align="center">
           <a href="https://github.com/Doninugraha2304/wm_remove">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=wm_remove&theme=github_dark&show_owner=true&_=20260531" alt="WM Remove" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=wm_remove&theme=github_dark&show_owner=true&_=20260601" alt="WM Remove" />
           </a>
         </div>
       </td>
@@ -126,19 +126,19 @@
 
 <div align="center">
   <a href="https://github.com/Doninugraha2304">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Doninugraha2304&show_icons=true&theme=github_dark&hide_border=true&count_private=true&_=20260531" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doninugraha2304&layout=compact&theme=github_dark&hide_border=true&langs_count=8&_=20260531" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Doninugraha2304&show_icons=true&theme=github_dark&hide_border=true&count_private=true&_=20260601" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doninugraha2304&layout=compact&theme=github_dark&hide_border=true&langs_count=8&_=20260601" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=github_dark&hide_border=true&v=20260531" alt="GitHub Streak Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doninugraha2304&theme=github_dark&v=20260531" alt="Most Used Languages" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doninugraha2304&theme=github_dark&v=20260531" alt="GitHub Stats Summary" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=github_dark&hide_border=true&v=20260601" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doninugraha2304&theme=github_dark&v=20260601" alt="Most Used Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doninugraha2304&theme=github_dark&v=20260601" alt="GitHub Stats Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doninugraha2304&theme=github_dark&v=20260531" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doninugraha2304&theme=github_dark&v=20260601" alt="Profile Details" />
 </div>
 
 <br>
@@ -152,7 +152,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doninugraha2304&theme=github-dark&hide_border=true&custom_title=Activity%20Graph&_=20260531" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doninugraha2304&theme=github-dark&hide_border=true&custom_title=Activity%20Graph&_=20260601" alt="Activity Graph" width="100%" />
 </div>
 
 ---
