@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/hero-wow-v2.svg" alt="Doni Nugraha full stack developer profile banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/hero-wow-v2.svg" alt="Doni Nugraha full stack developer profile banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/pixel-wow-cat-v2.svg" alt="Pixel cat coding scene by Doni Nugraha" width="100%" />
+  <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-wow-cat-v2.svg" alt="Pixel cat coding scene by Doni Nugraha" width="100%" />
 </div>
 
 <br>
@@ -41,7 +41,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/pixel-dev-loop.svg" width="250" alt="Developer illustration" />
+        <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-dev-loop.svg" width="250" alt="Developer illustration" />
       </td>
       <td>
         <p align="left">
@@ -202,7 +202,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/f6c59ccf98dba0e263bc850b76941ac02e92e7c2/assets/pixel-wow-scene.svg" alt="Pixel scene" width="60%" />
+  <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-wow-scene.svg" alt="Pixel scene" width="60%" />
 </div>
 
 <div align="center">
