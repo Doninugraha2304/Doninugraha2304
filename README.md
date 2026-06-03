@@ -202,10 +202,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Doninugraha2304/Doninugraha2304/main/assets/pixel-wow-scene.svg" alt="Pixel scene" width="60%" />
-</div>
-
-<div align="center">
   <br>
   <b>💬 Let's connect!</b>
   <br><br>
