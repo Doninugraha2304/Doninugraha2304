@@ -82,39 +82,39 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">Absensi & Employee Salary</h3>
-        <div align="center">
-          <a href="https://github.com/Doninugraha2304/absensi_and_-employee_salary">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=absensi_and_-employee_salary&theme=github_dark&show_owner=true&_=20260603" alt="Absensi & Employee Salary" />
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/Doninugraha2304/absensi_and_-employee_salary">📝 Absensi & Employee Salary</a></h3>
+        <p>Aplikasi absensi dan penggajian pegawai</p>
+        <p>
+          <img src="https://img.shields.io/github/stars/Doninugraha2304/absensi_and_-employee_salary?style=flat&color=3178C6" alt="Stars" />
+          <img src="https://img.shields.io/github/forks/Doninugraha2304/absensi_and_-employee_salary?style=flat&color=3178C6" alt="Forks" />
+        </p>
       </td>
-      <td width="50%">
-        <h3 align="center">Kasir Native PHP</h3>
-        <div align="center">
-          <a href="https://github.com/Doninugraha2304/kasir_native_php">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=kasir_native_php&theme=github_dark&show_owner=true&_=20260603" alt="Kasir Native PHP" />
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/Doninugraha2304/kasir_native_php">🛒 Kasir Native PHP</a></h3>
+        <p>Aplikasi kasir berbasis PHP Native</p>
+        <p>
+          <img src="https://img.shields.io/github/stars/Doninugraha2304/kasir_native_php?style=flat&color=3178C6" alt="Stars" />
+          <img src="https://img.shields.io/github/forks/Doninugraha2304/kasir_native_php?style=flat&color=3178C6" alt="Forks" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3 align="center">Aplikasi Note Kotlin</h3>
-        <div align="center">
-          <a href="https://github.com/Doninugraha2304/aplikasi_note_kotlin">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=aplikasi_note_kotlin&theme=github_dark&show_owner=true&_=20260603" alt="Aplikasi Note Kotlin" />
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/Doninugraha2304/aplikasi_note_kotlin">📓 Aplikasi Note Kotlin</a></h3>
+        <p>Aplikasi pencatatan berbasis Android Kotlin</p>
+        <p>
+          <img src="https://img.shields.io/github/stars/Doninugraha2304/aplikasi_note_kotlin?style=flat&color=3178C6" alt="Stars" />
+          <img src="https://img.shields.io/github/forks/Doninugraha2304/aplikasi_note_kotlin?style=flat&color=3178C6" alt="Forks" />
+        </p>
       </td>
-      <td width="50%">
-        <h3 align="center">WM Remove</h3>
-        <div align="center">
-          <a href="https://github.com/Doninugraha2304/wm_remove">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doninugraha2304&repo=wm_remove&theme=github_dark&show_owner=true&_=20260603" alt="WM Remove" />
-          </a>
-        </div>
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/Doninugraha2304/wm_remove">🖼️ WM Remove</a></h3>
+        <p>Tools penghapus watermark pada gambar</p>
+        <p>
+          <img src="https://img.shields.io/github/stars/Doninugraha2304/wm_remove?style=flat&color=3178C6" alt="Stars" />
+          <img src="https://img.shields.io/github/forks/Doninugraha2304/wm_remove?style=flat&color=3178C6" alt="Forks" />
+        </p>
       </td>
     </tr>
   </table>
@@ -123,13 +123,6 @@
 ---
 
 <h2 align="center">⚡ GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/Doninugraha2304">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Doninugraha2304&show_icons=true&theme=github_dark&hide_border=true&count_private=true&_=20260603" alt="GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doninugraha2304&layout=compact&theme=github_dark&hide_border=true&langs_count=8&_=20260603" alt="Top Languages" />
-  </a>
-</div>
 
 <div align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=github_dark&hide_border=true&v=20260603" alt="GitHub Streak Stats" />
