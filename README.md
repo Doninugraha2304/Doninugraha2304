@@ -125,13 +125,13 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=github_dark&hide_border=true&v=20260626" alt="GitHub Streak Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doninugraha2304&theme=github_dark&v=20260626" alt="Most Used Languages" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doninugraha2304&theme=github_dark&v=20260626" alt="GitHub Stats Summary" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Doninugraha2304&theme=github_dark&hide_border=true&v=20260627" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doninugraha2304&theme=github_dark&v=20260627" alt="Most Used Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doninugraha2304&theme=github_dark&v=20260627" alt="GitHub Stats Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doninugraha2304&theme=github_dark&v=20260626" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doninugraha2304&theme=github_dark&v=20260627" alt="Profile Details" />
 </div>
 
 <br>
@@ -145,7 +145,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doninugraha2304&theme=github-dark&hide_border=true&custom_title=Activity%20Graph&_=20260626" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doninugraha2304&theme=github-dark&hide_border=true&custom_title=Activity%20Graph&_=20260627" alt="Activity Graph" width="100%" />
 </div>
 
 ---
