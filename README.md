@@ -44,8 +44,8 @@ Saya **Doni Nugraha**, seorang Full Stack Developer dari **Kalimantan Timur, Ind
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doninugraha2304&theme=github_dark&v=20260708" alt="GitHub Stats Summary" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doninugraha2304&theme=github_dark&v=20260708" alt="Most Used Languages" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Doninugraha2304&theme=github_dark&v=20260709" alt="GitHub Stats Summary" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doninugraha2304&theme=github_dark&v=20260709" alt="Most Used Languages" />
 </p>
 
 <br>
